@@ -1,6 +1,6 @@
-Pedido 2 (Tortilla) preparado por cocinero 2
 Pedido 1 (Paella) preparado por cocinero 1
+Pedido 4 (Croquetas) preparado por cocinero 1
+Pedido 2 (Tortilla) preparado por cocinero 2
 Pedido 3 (Gazpacho) preparado por cocinero 3
 Pedido 5 (Ensalada) preparado por cocinero 1
-Pedido 4 (Croquetas) preparado por cocinero 2
-Pedido 6 (Fabada) preparado por cocinero 3
+Pedido 6 (Fabada) preparado por cocinero 2
